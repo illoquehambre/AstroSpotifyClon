@@ -6,16 +6,17 @@
       "@/*": [
         "src/*"
       ],
-      "@/components":[
+      "@/components": [
         "src/components/*"
       ],
-      "@/icons":[
+      "@/icons": [
         "src/icons/*"
       ],
-      "@/lib":[
+      "@/lib": [
         "src/lib/*"
-      ],
-
-    }
+      ]
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   }
 }
