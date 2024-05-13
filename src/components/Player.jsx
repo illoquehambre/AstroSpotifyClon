@@ -84,7 +84,7 @@ const VolumeControl = () => {
             </button>
 
             <Slider
-                className='w-[100px]'
+                className=''
                 defaultValue={[100]}
                 value={[volume*100]}
                 max={100}
